@@ -1,10 +1,12 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main - a code that prints a line using print f function
- * Return: 0 (success)
- */
+* main - Entry point
+*
+* Return: Always 0 (Winning goal)
+*/
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,\n")
-return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
+
