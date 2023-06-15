@@ -1,4 +1,4 @@
-#include <stdio.h
+#include <stdio.h>
 /**
  * main - a program i intend to use to print with funtion
  * Return: 0 (progress)
