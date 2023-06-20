@@ -1,7 +1,9 @@
 #include "main.h"
+
+
 	/**
 	 * main -Entry point of my code,
-	 * is written by mbah
+	 *
 	 * Return: Always 0
 	 */
 
